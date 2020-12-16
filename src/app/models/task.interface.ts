@@ -1,5 +1,5 @@
 export interface TaskI {
-  id?:string;
-  task: string;
-  priority: number;
+  id?: string;
+  message: string;
+  name: string;
 }
